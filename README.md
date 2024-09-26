@@ -1,4 +1,4 @@
-PreRequist :- make sure you have uploaded the mail.csv in the google collab from the repository link to run this file 
+PreRequist :- make sure you have uploaded the "mail_data.csv" in the google collab from the repository link to run this file 
 
 This project demonstrates how to build a spam detection system using Logistic Regression in Python. It involves the following steps:
 
