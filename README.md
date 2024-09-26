@@ -17,7 +17,9 @@ Train a Logistic Regression model on the labeled data.
 Model Evaluation:
 
 Evaluate the model's performance on both training and testing datasets using metrics such as accuracy.
+
 Accuracy on training data = 96.70%
+
 Accuracy on test data = 96.59%
 
 
